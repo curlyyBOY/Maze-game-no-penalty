@@ -1,13 +1,4 @@
 {
-	"@metadata": {
-		"authors": [
-			"Liuxinyu970226",
-			"McDutchie",
-			"Nike",
-			"Robby",
-			"Siebrand"
-		]
-	},
 	"Games.name": "The project name.",
 	"Games.puzzle": "title - Specifies that this is Blockly's '''Puzzle''' game.  Use the word for a jigsaw puzzle.\n{{Identical|Puzzle}}",
 	"Games.maze": "title - Specifies that this is Blockly's '''Maze''' game.\n{{Identical|Maze}}",
@@ -80,7 +71,7 @@
 	"Puzzle.error2": "An error message displayed if the user misplaced multiple blocks.\n\nParameters:\n* %1 - number of blocks incorrectly placed, which is always greater than 1 (or the message Puzzle.error1 would be used).",
 	"Puzzle.tryAgain": "A message indicating that a visually distinguished block is incorrect and that the user should try to fix it.\n\nThe use of a new line character is optional.",
 	"Puzzle.checkAnswers": "A label on a button the user can press to check his/her answers.",
-	"Puzzle.helpText": "Instructions for the puzzle.  For context, see [https://blockly-games.appspot.com/puzzle Blockly Puzzle].",
+	"Puzzle.helpText": "Instructions for the puzzle.  For context, see [https://blockly.games/puzzle Blockly Puzzle].",
 	"Maze.moveForward": "block text - Imperative or infinitive of a verb for a person moving (walking) in the direction he/she is facing.",
 	"Maze.turnLeft": "[[Translating:Blockly#Drop-Down_Menus dropdown]] - Imperative or infinitive of a verb for a person turning his head and body one quarter rotation counter-clockwise.  Prefer a translation that has text in common with the translation of 'turn right'.  See [[Translating:Blockly#Drop-Down_Menus]].",
 	"Maze.turnRight": "[[Translating:Blockly#Drop-Down_Menus dropdown]] - Imperative or infinitive of a verb for a person turning his head and body one quarter rotation clockwise.  Prefer a translation that has text in common with the translation of 'turn left'.  See [[Translating:Blockly#Drop-Down_Menus]].",
